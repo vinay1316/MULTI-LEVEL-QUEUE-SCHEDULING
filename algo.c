@@ -176,7 +176,6 @@ int main(){
 				break;
 		}
 		i++;
-		sleep(10);
 	}
 	printf("\n\n");
 }

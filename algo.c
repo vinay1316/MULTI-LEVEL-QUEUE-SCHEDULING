@@ -1,7 +1,3 @@
-//Github Link: https://github.com/mycodingtricks/multilevel-queue-scheduling
-//Create By: Shubham Kumar
-//Don't Copy without Credit
-
 #include<stdio.h>
 #include <stdlib.h>
 struct process{

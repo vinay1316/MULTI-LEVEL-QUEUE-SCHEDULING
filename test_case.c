@@ -1,7 +1,3 @@
-//Github Link: https://github.com/mycodingtricks/multilevel-queue-scheduling
-//Created By: Shubham Kumar
-//Just Enter the Number of Processes as Input to check the algo
-
 #include<stdio.h>
 #include <stdlib.h>
 struct process{
